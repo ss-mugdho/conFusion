@@ -37,3 +37,8 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+
+.button-reserve {
+    padding-left: 25px;
+    padding-right: 25px;
+}
